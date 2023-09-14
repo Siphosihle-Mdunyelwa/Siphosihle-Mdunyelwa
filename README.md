@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning and working with Angular<br>⚡ Fun fact I love video games and sports<br>📫 How to reach me: siphosihlemdunyelwa@gmail.com
+🌱 I’m currently learning and working with Angular, JavaScript and C#<br>⚡ Fun fact I love video games and sports<br>📫 How to reach me: siphosihlemdunyelwa@gmail.com
 
 
 ## 🌐 Socials:
