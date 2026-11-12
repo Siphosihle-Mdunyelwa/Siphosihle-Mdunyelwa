@@ -19,13 +19,12 @@ Building **stuff** for the web and the terminal.
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0MyOTI3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIi8%2BPHBhdGggZD0iTTMgNXYxNGE5IDMgMCAwIDAgMTggMFY1Ii8%2BPHBhdGggZD0iTTMgMTJhOSAzIDAgMCAwIDE4IDAiLz48L3N2Zz4%3D" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/CouchDB-0d1117?style=for-the-badge&logo=apachecouchdb&logoColor=E42528" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
   <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA3QUNDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B" />
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </div>
 
 </div>
