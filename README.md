@@ -12,4 +12,20 @@ Building **stuff** for the web and the terminal.
 [![X](https://img.shields.io/badge/X-18181a?style=for-the-badge&logo=x&logoColor=6a6a6c)](https://x.com/Null_Empty1)
 [![CodePen](https://img.shields.io/badge/CodePen-18181a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNmE2YTZjIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTguMTQ0IDEzLjA2N3YtMi4xMzRMMTYuNTUgMTJ6bTEuMjc2IDEuMTk0YS42MjguNjI4IDAgMDEtLjAwNi4wODNsLS4wMDUuMDI4LS4wMTEuMDUzLS4wMS4wMzFjLS4wMDUuMDE2LS4wMS4wMzEtLjAxNy4wNDdsLS4wMTQuMDNhLjc4Ljc4IDAgMDEtLjAyMS4wNDNsLS4wMTkuMDNhLjU3LjU3IDAgMDEtLjA4LjFsLS4wMjYuMDI1YS42MDIuNjAyIDAgMDEtLjAzNi4wM2wtLjAyOS4wMjItLjAxLjAwOC02Ljc4MiA0LjUyMmEuNjM3LjYzNyAwIDAxLS43MDggMEw0Ljg2NCAxNC43OWwtLjAxLS4wMDhhLjU5OS41OTkgMCAwMS0uMDY1LS4wNTJsLS4wMjYtLjAyNS0uMDMyLS4wMzQtLjAyMS0uMDI4YS41ODguNTg4IDAgMDEtLjA2Ny0uMTFsLS4wMTQtLjAzMWEuNjQ0LjY0NCAwIDAxLS4wMTctLjA0N2wtLjAxLS4wM2MtLjAwNC0uMDE4LS4wMDgtLjAzNi0uMDEtLjA1NGwtLjAwNi0uMDI4YS42MjguNjI4IDAgMDEtLjAwNi0uMDgzVjkuNzM5YzAtLjAyOC4wMDItLjA1NS4wMDYtLjA4M2wuMDA1LS4wMjcuMDExLS4wNTQuMDEtLjAzYS41NzQuNTc0IDAgMDEuMTItLjIxN2wuMDMxLS4wMzQuMDI2LS4wMjVhLjYyLjYyIDAgMDEuMDY1LS4wNTJsLjAxLS4wMDggNi43ODItNC41MjFhLjYzOC42MzggMCAwMS43MDggMGw2Ljc4MiA0LjUyMS4wMS4wMDguMDMuMDIyLjAzNS4wM2MuMDEuMDA4LjAxNy4wMTYuMDI2LjAyNWEuNTQ1LjU0NSAwIDAxLjA4LjFsLjAxOS4wM2EuNjMzLjYzMyAwIDAxLjAyMS4wNDNsLjAxNC4wM2MuMDA3LjAxNi4wMTIuMDMyLjAxNy4wNDdsLjAxLjAzMWMuMDA0LjAxOC4wMDguMDM2LjAxLjA1NGwuMDA2LjAyN2EuNjE5LjYxOSAwIDAxLjAwNi4wODN6TTEyIDBDNS4zNzMgMCAwIDUuMzcyIDAgMTIgMCAxOC42MjcgNS4zNzMgMjQgMTIgMjRjNi42MjggMCAxMi01LjM3MiAxMi0xMiAwLTYuNjI3LTUuMzcyLTEyLTEyLTEybTAgMTAuNDkyTDkuNzQ1IDEyIDEyIDEzLjUxIDE0LjI1NSAxMnptLjYzOCA0LjEyNHYyLjk3NWw0Ljk5Ni0zLjMzLTIuMjMyLTEuNDkzem0tNi4yNzItLjM1Nmw0Ljk5NiAzLjMzdi0yLjk3NGwtMi43NjQtMS44NDl6bTExLjI2OC00LjUybC00Ljk5Ni0zLjMzdjIuOTc0bDIuNzY0IDEuODV6bS02LjI3Mi0uMzU2VjYuNDFMNi4zNjYgOS43NGwyLjIzMiAxLjQ5M3ptLTUuNTA2IDEuNTQ5djIuMTM0TDcuNDUgMTJaIi8%2BPC9zdmc%2B)](https://codepen.io/Mdunyelwa)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/CouchDB-0d1117?style=for-the-badge&logo=apachecouchdb&logoColor=E42528" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</div>
+
 </div>
